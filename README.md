@@ -6,6 +6,8 @@
 
 <h3 style="margin-top: 0; margin-bottom: 5px;">The best way to build internal software</h3>
 
+<p>Turn AI-generated prototypes into production-ready enterprise apps with native SSO, RBAC, and Data Access Enforcement.</p>
+
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
